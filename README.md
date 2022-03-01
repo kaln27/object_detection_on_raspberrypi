@@ -52,7 +52,7 @@ source tflite/bin/activate
 ***
 # 5. 进行物体检测(tflite环境下)
 - cd 到 object_detection_on_raspberrypi/object_detection  
-- 运行 `python detect.py --model-model/detect_traffic.tflite`  
+- 运行 `python detect.py --model=model/detect_traffic.tflite`  
 - 你将看到如下图片
 ![img4.png](img4.png)
 

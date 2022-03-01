@@ -1,13 +1,16 @@
 # Object_Detection_on_raspberrypi
 <img src='img1.png' height=400px><img><img src='img2.png' height=400px ><img>
 
-## **具体步骤**
+## **具体步骤**  
+
 > 1. 把树莓派的默认python2 删除改成 python3
 > 2. 升级 pip 
 > 3. 安装虚拟环境
 > 4. 并且安装必要环境
 > 5. 进行物体检测
+
 ***
+
 # 1. 更改python版本
 > - 进入终端  输入   
 `python --version`  
@@ -59,3 +62,4 @@ source tflite/bin/activate
 - 接下来我将会带来模型训练  
 - 训练你自己的模型
 - 不妨给个 **star** 
+- 我的[Github](https://github.com/liaojuncheng123)主页
